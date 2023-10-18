@@ -1,10 +1,10 @@
 # Site
-title:          Ramme
-bio:            'Just a simple Jekyll theme'
-description:    "Simple Jekyll theme for your blog by Taylan Tatlı"
+title:          Pisarevski Vyacheslav
+bio:            'Mobile developer'
+description:    "My projects and biography"
 picture:        'assets/img/Logo.png'
 locale:         en_US
-url:            http://taylantatli.me/Ramme
+url:            https://pisarevski.dev
 
 # Jekyll
 permalink:      /:title/
@@ -22,9 +22,9 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-#email:
-twitter: username
-facebook: username
+email: mail@pisarevski.dev
+#twitter: username
+#facebook: username
 #google:
   #plus: #username
   #analytics:
@@ -32,18 +32,18 @@ facebook: username
   #ad-client:
   #ad-slot:
 #bing-verify:
-github: username
-stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin: username
+github: pisarevski
+#stackoverflow: #123456/username   from a #"http://stackoverflow.com/users/123456/username" link
+#linkedin: username
 #xing: username
-instagram: username
-lastfm: username
-tumblr: username
+#instagram: username
+lastfm: alvafox
+#tumblr: username
 #pinterest: username
 #foursquare: username
-steam: username
+#steam: username
 #dribbble: username
-youtube: username
+#youtube: username
 #soundcloud: username
 #weibo: username
 #flickr: username
@@ -54,8 +54,8 @@ youtube: username
 # paginate: 5
 # paginate_path: "blog/:num/"
 
-# Gems
-gems:
+# Plugins
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
